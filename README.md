@@ -1,11 +1,14 @@
 # esp32s3-4G-watch
 
-该手表使用**ESP32S3** 作为主控芯片
-
 
 <p align="center">
     <img src="overview.png" alt="f" width="80%"/>
 </p>
+
+
+该手表使用**ESP32S3**作为主控芯片
+
+
 
 
 ### 系统架构
