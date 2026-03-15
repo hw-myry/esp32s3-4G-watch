@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "001.blink",
-    "project_version":    "516a589-dirty",
+    "project_version":    "8310bd4-dirty",
     "project_path":       "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/001.blink",
     "idf_path":           "/Users/wangjiaqi/esp/esp-idf",
     "build_dir":          "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/001.blink/build",
