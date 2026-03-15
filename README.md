@@ -2,11 +2,19 @@
 
 
 <p align="center">
-    <img src="overview.png" alt="f" width="80%"/>
+    <img src="04.fotos/overview.png" alt="f" width="80%"/>
 </p>
 
 
 该手表使用**ESP32S3**作为主控芯片
+
+
+
+<p align="center">
+    <img src="04.fotos/solder1.jpg" alt="f" width="80%"/>
+    <img src="04.fotos/solder2.jpg" alt="f" width="80%"/>
+</p>
+
 
 
 
@@ -37,6 +45,6 @@
 
 
 <p align="center">
-  <img src="f.JPG" alt="r" width="50%" />
-  <img src="r.JPG" alt="f" width="50%" />
+  <img src="04.fotos/f.JPG" alt="r" width="50%" />
+  <img src="04.fotos/r.JPG" alt="f" width="50%" />
 </p>
