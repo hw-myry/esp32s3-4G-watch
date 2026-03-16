@@ -1,14 +1,6 @@
 # esp32s3-4G-watch
 
 
-<p align="center">
-    <img src="04.fotos/overview.png" alt="f" width="80%"/>
-</p>
-
-
-该手表使用**ESP32S3**作为主控芯片
-
-
 
 <p align="center">
     <img src="04.fotos/solder1.jpg" alt="f" width="80%"/>
@@ -16,11 +8,18 @@
 </p>
 
 
+该手表使用**ESP32S3**作为主控芯片
+
+
+
 
 
 
 ### 系统架构
 
+<p align="center">
+    <img src="04.fotos/overview.png" alt="f" width="80%"/>
+</p>
 
 外设包括:  
 - 4G模组: ML307A-GCLN
