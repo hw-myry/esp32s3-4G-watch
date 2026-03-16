@@ -3,16 +3,13 @@
 
 
 <p align="center">
-    <img src="04.fotos/solder1.jpg" alt="f" width="80%"/>
     <img src="04.fotos/solder2.jpg" alt="f" width="80%"/>
+    <img src="04.fotos/solder1.jpg" alt="f" width="80%"/>
 </p>
 
 
+这是为中国福建的玩具公司[海智星](https://www.hzxaitoy.com)设计的4G手表  
 该手表使用**ESP32S3**作为主控芯片
-
-
-
-
 
 
 ### 系统架构
