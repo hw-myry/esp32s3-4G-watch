@@ -7,8 +7,8 @@
 
 
 <p align="center">
-    <img src="04.fotos/solder2.jpg" alt="f" width="80%"/>
-    <img src="04.fotos/solder1.jpg" alt="f" width="80%"/>
+    <img src="04.fotos/solder3.jpg" alt="f" width="80%"/>
+    <img src="04.fotos/solder4.jpg" alt="f" width="80%"/>
 </p>
 
 
