@@ -31,19 +31,6 @@ void app_main(void)
         int ppr = gpio_get_level(PIN_PPR);
 
         printf("PPR=%d CHG=%d\n", ppr, chg);
-
-        if (ppr == 1)
-        {
-            ESP_LOGI(TAG, "No charger");
-        }
-        else
-        {
-            if (chg == 0)
-                ESP_LOGI(TAG, "Charging");
-            else
-                ESP_LOGI(TAG, "Charge done");
-        }
-
         vTaskDelay(pdMS_TO_TICKS(1000));
     }
 }

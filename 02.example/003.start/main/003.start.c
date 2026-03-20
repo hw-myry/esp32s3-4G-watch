@@ -25,7 +25,7 @@ void app_main(void)
     ESP_LOGI(TAG, "GPIO configured");
 
     // GPIO5一直拉高
-    gpio_set_level(TEST_GPIO, 1);
+    gpio_set_level(TEST_GPIO, 0);
 
     int level = 0;
 
