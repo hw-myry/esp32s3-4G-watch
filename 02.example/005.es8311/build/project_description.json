@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "i2s-es8311-example",
-    "project_version":    "d0cbfc78-dirty",
+    "project_version":    "2a49cf42-dirty",
     "project_path":       "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/005.es8311",
     "idf_path":           "/Users/wangjiaqi/esp/esp-idf",
     "build_dir":          "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/005.es8311/build",

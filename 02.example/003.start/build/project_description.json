@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "003.start",
-    "project_version":    "f2b1100-dirty",
+    "project_version":    "2a49cf42-dirty",
     "project_path":       "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/003.start",
     "idf_path":           "/Users/wangjiaqi/esp/esp-idf",
     "build_dir":          "/Users/wangjiaqi/Documents/Github/esp32s3-4G-watch/02.example/003.start/build",
